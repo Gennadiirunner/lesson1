@@ -1,0 +1,14 @@
+.mainimg {
+    float: right;
+    width: 100%; /* Ширина первого слоя */
+    padding: 10px; /* Поля вокруг текста */
+    background: #fc0; /* Цвет фона */
+
+}
+.logo {
+    float: left;
+    width: 100%; /* Ширина второго слоя */
+    background: #cc0; /* Цвет фона */
+
+}
+
